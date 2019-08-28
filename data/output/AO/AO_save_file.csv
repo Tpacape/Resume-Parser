@@ -1,0 +1,2661 @@
+index,file_path,extension,text
+0,data/input/AO\AO JEMS group-2.pdf,.pdf," 
+ 
+Contexte détaillé de la Mission 
+ 
+Domaine  
+ 
+Environnement technique général 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dealing Service 
+
+LZ Minerva (OMS)/ SQL/ Oracle/ Unix Shell/ FIX/ CFT/ MQ Series/ VBA 
+
+ 
+
+Nom du projet  
+ 
+
+ 
+
+ 
+
+Global Dealing Service Desk 
+
+I/ ACTIVITES DE DEALING SERVICES 
+ 
+Le Dealing Services est une offre d’outsourcing de tables de négociations à destination de la clientèle 
+«buy-side»: gestionnaires d’actifs, «asset owners», assureurs et banques privées. Basées à Paris, 
+Londres, Hong-Kong et New-York, les équipes des tables de négociations interviennent sur les 
+marchés régulés, les plateformes alternatives (MTFs ou «multi-trading facilities »), «dark pools» et 
+«trading platforms». 
+ 
+ 
+II/ OBJECTIFS DU SERVICE DESK  
+ 
+Prise en compte des incidents de production: 
+• Résolution des problèmes 
+• Déclaration d’incidents vers la production et communication des incidents auprès des utilisateurs. 
+• Suivi d’avancement des incidents. 
+• Rédaction d’un post-mortem systématique des incidents importants en vue d’améliorer la qualité et 
+le niveau de service. 
+• Capitalisation des informations fournies par le support de niveau MOA et MOE (enrichissement du 
+référentiel de consignes). 
+• Rationnalisation et fiabilisation des processus de support. 
+ 
+Aide à l’utilisation des applications: 
+• Réponse aux questions des traders sur les fonctionnalités des applications. 
+• Formations ponctuelles sur les applications. 
+ 
+Paramétrage et suivi des changements d’organisation : 
+• Gestion des habilitations des utilisateurs des applications et contrôles permanents associés 
+(juridictions). 
+• Administration des référentiels applicatifs. 
+• Exécution des requêtes ad hoc. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Description détaillée de la mission  
+ 
+ 
+
+• Support Front Office (Portfolio Manager). 
+• Middle Office des clients. 
+• Réseau FIX (LatentZero Network). 
+• Support Brokers. 
+• Plateforme de négociation (EMS). 
+ 
+ 
+III/ RESPONSABILITES  
+ 
+• Garantir la coordination des problèmes et des incidents 
+• Assurer une communication fluide et appropriée aux négociateurs et au management. 
+• Contribuer un reporting mensuel des activités, avec les indicateurs de performance. 
+• Contribuer et suivre les plans d’actions avec les équipes de production,et de Dealing Services MOA et MOE.  
+• Contribuer au plan d’amélioration continu de l’activité support (en conclusion des enquêtes de satisfaction) 
+ 
+ 
+IV/ COMPETENCES  
+
+ 
+
+ 
+• Anglais courant indispensable.  
+• Très bon relationnel, forte réactivité, sens du service, capacité à communiquer, professionnalisme et rigueur. 
+• Bonnes compétences des bases de données, SQL et Oracle, Unix Shell et Windows. 
+• Connaissance des outils CFT, MQ Series. 
+• Connaissance marché financière et sur les réseaux FIX sont nécessaires pour dialoguer avec les équipes 
+support des éditeurs financiers. 
+• Une bonne connaissance du dealing (buy-side ou sell-side) et d'au moins un OMS est indispensable. 
+ 
+ 
+
+V/ DANS LE CADRE DE LA NORME ITIL, la mission recouvre les aspects suivants :  
+ 
+
+Support de la production (jours fériés + astreintes de nuit à prévoir).  
+Cela consiste notamment à qualifier les incidents et demandes utilisateurs, les analyser, les traiter et le cas 
+échéant, les escalader vers un support de niveau 2 et assurer la communication auprès des utilisateurs.   
+La rédaction de nouvelles procédures de support fait partie de la mission. 
+Cela nécessite une connaissance informatique large et technique. Une expérience réelle, a minima dans les 
+environnements Unix et base de données, est donc indispensable 
+ 
+
+  Gestion et Suivi des problèmes et plans d’action 
+
+Rédaction des compte rendu d’incident, mise en place et suivi des plans d’action associés. 
+ 
+
+  Accompagnement des équipes IT projet  
+
+Consiste à vérifier et/ou analyser les impacts des différents changements sur l’environnement de production 
+(conflits, procédures, contrôle de la capacité et du respect des normes et standards 
+ 
+
+  Gestion des changements :  
+
+Les activités de développement se limitent au strict périmètre des outils éventuellement nécessaires à 
+l’automatisation de certaines taches et/ou au suivi de production.  
+ 
+Suivi et Amélioration continue des niveaux de service  
+(Disponibilité, Continuité, Capacité)  
+ 
+
+ 
+
+Contribution à la mise en place de ces activités et des processus associés. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+12 mois, prolongeable 
+
+ 
+ 
+Durée prévisionnelle 
+ 
+ 
+Compétences et qualités requises (indispensables en gras) 
+ 
+1 
+2 
+3 
+4 
+ 
+5 
+6 
+7 
+8 
+9 
+ 
+La connaissance du domaine de tables de négociations, market data, du modèle ITIL et/ou des technologies BO, java, seront 
+des facteurs différentiateurs importants. 
+ 
+
+anglais parlé, lu et écrit. 
+expérience dans le domaine du support de production. 
+Sens du service ; rigueur, réactivité, autonomie 
+SQL (Oracle)(compréhension de requêtes existantes / écriture de requêtes simples, notions 
+ d’optimisation ) 
+Unix (Commandes standards et shell script)  
+culture large des systèmes informatiques, 
+capacité d’adaptation rapide, 
+capacité d’analyse et de synthèse, 
+bon relationnel et communications orales (notamment par téléphone) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+"
+1,data/input/AO\Ao--05-07-2016-812632-001.pdf,.pdf,"Document de consultation Appel d’offres
+
+ 
+
+Informations relatives à l’Appel d’Offres
+
+Société émettrice
+
+Date d’émission
+
+Date de clôture
+
+Date de démarrage prévue
+
+Informations sur l'émetteur
+
+Nom et prénom
+
+Direction et Service
+
+Centre de Base
+
+Numéro de téléphone
+
+Adresse e-mail
+
+ 
+
+ 
+
+ 
+
+05/07/2016
+
+31/08/2016
+
+22/08/2016
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Contexte détaillé de la prestation
+
+Domaine
+
+CCS - BDO
+
+Environnement technique general
+
+environnement PC
+
+Nom du projet
+
+Broker Dealer Outsourcing - Service Delivery
+
+Description détaillée de la prestation
+
+Le départemen  
+sous-traitance des activités Middle Office et Back Office des 
+brokers.
+
+ - Broker Dealer Outsourcing - assure la 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+, il est en pleine croissance et les 
+perspectives de développement à long terme sont importantes, 
+notamment à l’international avec les branches de 
+Hong-Kong.
+
+ Londres & 
+
+ 
+
+ 
+
+ 
+
+ équipe de Service Delivery pour le 
+
+A ce titre, 
+suivi de production en relation avec les utilisateurs (équipes 
+opérationnelles basées à Paris, Londres, Lisbonne, New York, 
+Jersey City, Hong Kong & Chennai), les clients, le fournisseur 
+externe, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Cette équipe s’inscrit dans une architecture globale en lien avec de 
+multiples applications à la fois chez 
+
+ 
+
+ 
+
+ 
+
+Périmètre métier :
+
+o Sous traitance back/middle office des brokers : support Middle 
+Office, Clearing, Settlement sur tous les marchés, Comptabilité, 
+
+Printed on 05/07/2016 17:44:55 
+
+Page 1 on 3
+
+Document de consultation Appel d’offres
+
+ 
+
+Opérations sur titres (OST), Fiscalité, Swifts
+
+o Gestion du risque (Margin calls)
+
+o Outil de monitoring temps réel du risque des Brokers
+
+Rôle:
+
+o Gestion des Incident demande de Support:
+
+> Analyse de premier niveau en lien avec le provider, les 
+utilisateurs, les clients
+
+> Suivi des demandes
+
+> Aide aux utilisateurs
+
+o Gestion des Problème: identification et suivi des plan d'actions
+
+o Gestion de la transition
+
+o Gestion de la connaissance (mise à jours des documents)
+
+o Animation de réunion en Français et Anglais
+
+o Astreintes de nuit (téléphoniques) du Lundi au Vendredi + Samedi 
+pour opération exceptionnelle
+
+Service ouvert du Lundi au Vendredi de 8h à 19h30 tous les jours 
+de l'année sauf le 01/01 et le 25/12.
+
+Durée prévisionnelle
+
+12 mois
+
+Prestation type
+
+Prestation type
+
+Analyse Niveau 2 (A2)
+
+En fonction de la teneur de la prestation détaillée plus haut, il est attendu que le Prestataire réponde à l’appel 
+d’offres en constituant une équipe de collaborateurs du niveau suivant :
+
+Niveau de formation (Bac +)
+
+Expérience professionnelle
+
+Expérience dans la fonction
+
+Bac +4/5
+
+>=4 ans
+
+2-3 ans
+
+Compétences et qualités requises (indispensables en gras)
+
+Printed on 05/07/2016 17:44:55 
+
+Page 2 on 3
+
+Document de consultation Appel d’offres
+
+ 
+
+Anglais : écrit et oral
+
+Bon relationnel, méthodique et rigoureux
+
+Esprit d’équipe
+
+Sens du client / du Service
+
+Sens des responsabilités
+
+Bonne communication écrite et orale, bon relationnel
+
+Connaissances fonctionnelles des domaines : OST, Réglement - livraison, Clearing
+
+Certifié ITIL
+
+Flexibilité
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+e.
+
+Printed on 05/07/2016 17:44:55 
+
+Page 3 on 3
+
+"
+2,data/input/AO\Ao--10-11-2015-496231-001.pdf,.pdf,"Document de consultation Appel d’offres
+
+Informations relatives à l’Appel d’Offres
+
+Société émettrice
+
+Date d’émission
+
+Date de clôture
+
+Date de démarrage prévue
+
+Informations sur l'émetteur
+
+10/11/2015
+
+11/12/2015
+
+10/11/2015
+
+Nom et prénom
+
+Direction et Service
+
+Centre de Base
+
+Numéro de téléphone
+
+Adresse e-mail
+
+Contexte détaillé de la prestation
+
+Domaine
+
+Dealing Services - Front Office Application Support
+
+Environnement technique général
+
+LZ Minerva (OMS)/ SQL/ Oracle/ Unix Shell/ FIX/ CF
+
+Nom du projet
+
+Global Dealing Service Desk
+
+Description détaillée de la 
+prestation
+
+• Support Front Office (Portfolio Manager).(cid:13)
+• Middle Office des clients.(cid:13)
+• Réseau FIX (LatentZero Network).(cid:13)
+• Support Brokers.(cid:13)
+• Plateforme de négociation (EMS).(cid:13)
+
+III/ RESPONSABILITES (cid:13)
+
+• Garantir la coordination des problèmes et des incidents(cid:13)
+• Assurer une communication fluide et appropriée aux 
+négociateurs et au management.(cid:13)
+• Contribuer un reporting mensuel des activités, avec les 
+indicateurs de performance.(cid:13)
+• Contribuer et suivre les plans d’actions avec les 
+équipes de production,et de Dealing Services MOA et 
+MOE. (cid:13)
+• Contribuer au plan d’amélioration continu de l’activité 
+support (en conclusion des enquêtes de satisfaction)(cid:13)
+
+IV/ COMPETENCES (cid:13)
+
+• Anglais courant indispensable. (cid:13)
+• Très bon relationnel, forte réactivité, sens du service, 
+capacité à communiquer, professionnalisme et rigueur.(cid:13)
+• Bonnes compétences des bases de données, SQL et 
+Oracle, Unix Shell et Windows.(cid:13)
+• Connaissance des outils CFT, MQ Series.(cid:13)
+• Connaissance marché financière et sur les réseaux 
+FIX sont nécessaires pour dialoguer avec les équipes 
+support des éditeurs financiers.(cid:13)
+• Une bonne connaissance du dealing (buy-side ou sell-
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:13)
+(cid:10)
+(cid:13)
+(cid:10)
+(cid:10)
+(cid:13)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:13)
+(cid:10)
+(cid:13)
+(cid:10)
+(cid:10)
+(cid:13)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+Document de consultation Appel d’offres
+
+side) et d'au moins un OMS est indispensable.(cid:13)
+
+V/ DANS LE CADRE DE LA NORME ITIL, la mission 
+recouvre les aspects suivants : (cid:13)
+•(cid:9)Support de la production (jours fériés + astreintes de 
+nuit à prévoir). (cid:13)
+Cela consiste notamment à qualifier les incidents et 
+demandes utilisateurs, les analyser, les traiter et le cas 
+échéant, les escalader vers un support de niveau 2 et 
+assurer la communication auprès des utilisateurs.  (cid:13)
+La rédaction de nouvelles procédures de support fait 
+partie de la mission.(cid:13)
+Cela nécessite une connaissance informatique large et 
+technique. Une expérience réelle, a minima dans les 
+environnements Unix et base de données, est donc 
+indispensable(cid:13)
+
+•(cid:9)Gestion et Suivi des problèmes et plans d’action(cid:13)
+Rédaction des compte rendu d’incident, mise en place 
+et suivi des plans d’action associés.(cid:13)
+
+•(cid:9)Accompagnement des équipes IT projet (cid:13)
+Consiste à vérifier et/ou analyser les impacts des 
+différents changements sur l’environnement de 
+production (conflits, procédures, contrôle de la capacité 
+et du respect des normes et standards(cid:13)
+
+•(cid:9)Gestion des changements : (cid:13)
+Les activités de développement se limitent au strict 
+périmètre des outils éventuellement nécessaires à 
+l’automatisation de certaines taches et/ou au suivi de 
+production. La gestion des changements consiste donc (cid:13)
+
+•(cid:9)Suivi et Amélioration continue des niveaux de service (cid:13)
+(Disponibilité, Continuité, Capacité) (cid:13)
+
+Contribution à la mise en place de ces activités et des 
+processus associés.
+12 mois
+
+Durée prévisionnelle
+
+Prestation type
+
+Prestation type
+
+Analyse Niveau 1 (A1)
+
+En fonction de la teneur de la prestation détaillée plus haut, il est attendu que le Prestataire 
+réponde à l’appel d’offres en constituant une équipe de collaborateurs du niveau suivant :
+
+Niveau de formation (Bac +)
+
+Expérience professionnelle
+
+Expérience dans la fonction
+
+5 ans
+
+2-3 ans
+
+2-3 ans
+
+Compétences et qualités requises (indispensables en gras)
+
+anglais parlé, lu et écrit.
+
+expérience dans le domaine du support de production
+
+Sens du service ; rigueur, réactivité, autonomie
+
+(cid:10)
+(cid:13)
+(cid:10)
+(cid:13)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:13)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:13)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:13)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:13)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:13)
+(cid:10)
+Document de consultation Appel d’offres
+
+SQL (Oracle)(compréhension de requêtes existantes / écriture 
+de requêtes simples
+Unix (Commandes standards et shell script)
+
+culture large des systèmes informatiques
+
+capacité d’adaptation rapide,
+
+capacité d’analyse et de synthèse
+
+Bon relationnel et communications orales (notamment par 
+téléphone)
+
+de 
+
+(cid:13)
+(cid:13)
+(cid:10)
+(cid:13)
+"
+3,data/input/AO\Ao--20-06-2016-201696-001.pdf,.pdf,"Document de consultation Appel d’offres
+
+ 
+
+Informations relatives à l’Appel d’Offres
+
+Société émettrice
+
+Date d’émission
+
+Date de clôture
+
+Date de démarrage prévue
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+20/06/2016
+
+05/08/2016
+
+01/09/2016
+
+ 
+
+ 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Contexte détaillé de la prestation
+
+Domaine
+
+Analyste IT Technico-Fonctionnel
+
+Environnement technique general
+
+Sybase 15.7 / Power Builder 12 / Unix
+
+Nom du projet
+
+FLASH / PMS
+
+Description détaillée de la prestation
+
+- Prendre en charge des sujets fonctionnels et en rédiger les 
+spécifications détaillées (anglais) à partir des demandes utilisateurs
+
+- Mettre à jour les documents existant suite à des évolutions et 
+formation des utilisateurs si besoin
+
+- Rédiger des documentations techniques (anglais) en tant 
+qu’analyste avec validation du technical leader/lead analyst et du 
+DBA
+
+- Concevoir des tests unitaires et d’intégration
+
+- Respecter les procédures qualité en place (CMMI 3)
+
+- Produire des spécifications techniques détaillées dédiées aux 
+développements off-shore
+
+- Pré analyse et estimation des coûts des développements confiés 
+en off-shore
+
+- Etre le référent technique et fonctionnel de l’équipe off-shore et 
+assurer l’assistance technique sur le périmètre des spécifications 
+durant la phase de développement
+
+Printed on 20/06/2016 16:15:12 
+
+Page 1 on 3
+
+Document de consultation Appel d’offres
+
+ 
+
+- Assurer la qualité des livraisons des spécifications produites en 
+off-shore en pratiquant systématiquement des specifications 
+reviews
+
+- Assurer la qualité des livraisons des composants développés en 
+off-shore en pratiquant systématiquement des code reviews
+
+- Participer aux phases de tests techniques et aux phases de tests 
+utilisateurs
+
+- Participer aux réunions analystes avec le lead analyst
+
+- Participer aux workshops fonctionnels avec la maîtrise d’ouvrage
+
+- Support de production niveau 2 & 3
+
+- Contribution au project debrief
+
+- Renforcement des compétences fonctionnelles de l'équipe 
+offshore
+
+- Mise en place de nouveaux outils de suivi et contrôle sur la qualité 
+du code produit
+
+De part l’aspect international du projet (Milan, Madrid, Luxembourg, 
+Hong-Kong, Chennai, Varsovie), la maîtrise de l’anglais est 
+obligatoire, parlé et écrit : toute la documentation est en anglais et 
+certains interlocuteurs ne maîtrisent pas la langue française
+
+Durée prévisionnelle
+
+3 ans
+
+Prestation type
+
+Prestation type
+
+Analyse Niveau 2 (A2)
+
+En fonction de la teneur de la prestation détaillée plus haut, il est attendu que le Prestataire réponde à l’appel 
+d’offres en constituant une équipe de collaborateurs du niveau suivant :
+
+Niveau de formation (Bac +)
+
+Expérience professionnelle
+
+Expérience dans la fonction
+
+BAC+5
+
+3-10 ans
+
+2-5 ans
+
+Compétences et qualités requises (indispensables en gras)
+
+PowerBuilder 12, Sybase 15.5,  Transact SQL (Sybase), UNIX
+
+Anglais : écrit et oral
+
+Printed on 20/06/2016 16:15:12 
+
+Page 2 on 3
+
+Document de consultation Appel d’offres
+
+ 
+
+Rigueur / Réactivité / Autonomie / Investissement personnel / Flexibilité
+
+travail en équipe, qualités relationnelles
+
+Connaissance du monde financier
+
+Client focus
+
+connaissance des OPCVM
+
+Méthode : CMMI (niveau 3 ou +)
+
+bonne résistance au stress
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Printed on 20/06/2016 16:15:12 
+
+Page 3 on 3
+
+"
+4,data/input/AO\Ao--20-10-2011-361638-001.pdf,.pdf,"Document de consultation Appel d’offres
+
+Informations relatives à l’Appel d’Offres
+
+Société émettrice
+
+Date d’émission
+
+Date de clôture
+
+Date de démarrage prévue
+
+Informations sur l'émetteur
+
+20/10/2011
+
+04/11/2011
+
+14/11/2011
+
+Nom et prénom
+
+Direction et Service
+
+Centre de Base
+
+Numéro de téléphone
+
+Adresse e-mail
+
+Contexte détaillé de la prestation
+
+Domaine
+
+Market and Financing Services - Calypso - IT
+
+Environnement technique général
+
+Calypso - Java
+
+Nom du projet
+
+OTC Valuation
+
+Description détaillée de la 
+prestation
+
+Dans le cadre de la mise en place d'un service sur les 
+produits dérivés OTC pour des clients 
+nous recherchons un business analyste ayant une forte 
+expertise sur les produits structurés et une expérience 
+significative sur le progiciel Calypso (domaine 
+Front/Middle) afin d'assister la MOA à modéliser et 
+valoriser ces produits:(cid:13)
+(cid:9)- soit directement via le progiciel Calypso avec les 
+données de marchés adéquates(cid:13)
+(cid:9)- soit en s'appuyant sur un moteur de pricing externe  
+avec les données de marchés adéquates(cid:13)
+- soit en s'appuyant sur un service de valorisation 
+externe (ex: Markit, ...)(cid:13)
+
+Il sera amené à rédiger les documents d'interfaçage 
+(Trade/Valorisation) avec le fournisseur Markit et d'une 
+manière générale à rédiger les spécifications 
+fonctionnelles ainsi que les cahiers de tests.(cid:13)
+
+Le business analyste travaillera conjointement avec la 
+MOA métier et la MOE et sera sous la responsabilité de 
+l'IT.
+
+Durée prévisionnelle
+
+6 mois
+
+Prestation type
+
+Prestation type
+
+Assistance fonctionnelle niveau 2 (CF2)
+
+En fonction de la teneur de la prestation détaillée plus haut, il est attendu que le Prestataire 
+réponde à l’appel d’offres en constituant une équipe de collaborateurs du niveau suivant :
+
+(cid:13)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:13)
+(cid:10)
+(cid:10)
+(cid:13)
+(cid:10)
+Document de consultation Appel d’offres
+
+Niveau de formation (Bac +)
+
+Expérience professionnelle
+
+Expérience dans la fonction
+
++4-5
+
++3
+
++3
+
+Compétences et qualités requises (indispensables en gras)
+
+10. Rédaction de specifications détaillées en collaboration 
+avec la MOA
+Anglais : écrit et oral
+
+11. Rédaction de plan de tests
+
+Connaissance des produits OTC (IRS, FX Forward,CDS,TRS, 
+Swapion,Cap floor....)
+Connaissance du fournisseur Markit
+
+Expérience de génération et parsing de documents XML
+
+Oracle SQL, PL/SQL
+
+Expérience progiciel Calypso sur les produits structurés
+
+Connaissance de l'API Calypso
+
+8. Méthodologie CMMI (Apprécié)
+
+Connaissance générale données de marchés (ISDA, DTCC, RED, 
+courbes de spread..)
+
+(cid:13)
+(cid:13)
+(cid:10)
+(cid:13)
+"
+5,data/input/AO\Ao--25-02-2014-536631-001.pdf,.pdf,"Document de consultation Appel d’offres
+
+Informations relatives à l’Appel d’Offres
+
+Société émettrice
+
+Date d’émission
+
+Date de clôture
+
+Date de démarrage prévue
+
+Informations sur l'émetteur
+
+28/02/2014
+
+21/03/2014
+
+31/03/2014
+
+Nom et prénom
+
+Direction et Service
+
+Centre de Base
+
+Numéro de téléphone
+
+Adresse e-mail
+
+Contexte détaillé de la prestation
+
+Domaine
+
+Métier titres - AFS
+
+Environnement technique général
+
+Sybase 15.5 - PowerBuilder 12 - Websphere TX 8.4 -
+
+Nom du projet
+
+AMANDA
+
+Description détaillée de la 
+prestation
+
+NE PAS ME CONTACTER PAR TELEPHONE MAIS(cid:13)
+EXCLUSIVEMENT PAR MAIL(cid:13)
+
+PRESENTATION DU CONTEXTE:(cid:13)
+
+L'application AMANDA (Asset management & data(cid:13)
+administration) est l'application référentielle de cours(cid:13)
+pour 
+taux, caractéristiques valeurs, OST, ...) aux locations(cid:13)
+
+et délivre des données de marchés (cours,(cid:13)
+
+à travers le monde pour le compte du Fund Admin(cid:13)
+
+et du Custody. A cette fin, Amanda est amenée à gérer(cid:13)
+de gros volumes de données - plusieurs millions de(cid:13)
+cours requêtés, contrôlés et diffusés par jour.(cid:13)
+
+Son caractère central et les fortes sollicitations en(cid:13)
+termes de cuts-off client en font une application(cid:13)
+stratégique particulièrement sensible, fonctionnant(cid:13)
+aujourd'hui 6j/7 en 24h/24.(cid:13)
+
+un contexte client-serveur articulé 
+
+t(cid:13)
+
+d'un SGBDR Sybase V15, d'un frontal Powerbuilder 12,(cid:13)
+et de l'EAI IBM Websphere TX.(cid:13)
+
+MISSION(cid:13)
+
+Afin de répondre aux exigences toujours plus(cid:13)
+importantes du Métier et faire face à l'onboarding de(cid:13)
+nouveaux clients, plusieurs projets ont été lancés en
+
+(cid:10)
+(cid:10)
+(cid:13)
+(cid:10)
+(cid:10)
+(cid:13)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:13)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:13)
+(cid:10)
+(cid:10)
+(cid:13)
+(cid:13)
+(cid:10)
+(cid:10)
+(cid:13)
+(cid:10)
+(cid:13)
+(cid:10)
+(cid:13)
+(cid:10)
+(cid:10)
+(cid:13)
+(cid:10)
+(cid:10)
+(cid:10)
+Document de consultation Appel d’offres
+
+2013 courant jusqu'en 2015, qui nécessitent de 
+renforcer l'équipe à Paris.(cid:13)
+
+La mission du consultant sera de:(cid:13)
+
+1. Prendre en charge les demandes de l'équipe MOA, 
+dans le cadre de nouveaux projets ou de maintenance 
+évolutive. Le consultant sera à même d'analyser les 
+demandes, d'être capable de les challenger et de se 
+montrer force de proposition lors des comités 
+d'architecture et techniques.(cid:13)
+
+2. Réaliser les développements tout en veillant au 
+respect des contraintes budgétaires, des délais, du 
+planning des releases et des normes qualité CMMI3 en 
+place chez 
+
+3. Participer aux phases d'intégration des 
+développements, et aux phases de recette et de non-
+regression en apportant tout son support à la MOA(cid:13)
+
+4. Documenter les solutions mises en oeuvre 
+(spécifications techniques, documents de support, ...)(cid:13)
+
+5. Contribuer aux tâches de support de niveau 2 de 
+l'application en collaboration avec les équipes du 
+Service Delivery (support niveau 1)(cid:13)
+
+6. Contribuer à la montée en puissance des équipes 
+offshores en apportant son support et en dispensant des 
+sessions de formation.
+2 ans
+
+Durée prévisionnelle
+
+Prestation type
+
+Prestation type
+
+Analyse Niveau 2 (A2)
+
+En fonction de la teneur de la prestation détaillée plus haut, il est attendu que le Prestataire 
+réponde à l’appel d’offres en constituant une équipe de collaborateurs du niveau suivant :
+
+Niveau de formation (Bac +)
+
+Expérience professionnelle
+
+Expérience dans la fonction
+
+Bac +5
+
+> 5 ans
+
+> 3 ans
+
+Compétences et qualités requises (indispensables en gras)
+
+Analyse et Développement T-SQL (Sybase ASE 15)
+
+PowerBuilder 12, Sybase 15.5,  Transact SQL (Sybase), UNIX
+
+Expérience professionnelle de 5 ans minimum dans le monde 
+IT
+Réactivité, autonomie, curiosité, force de proposition
+
+Anglais : écrit et oral courant
+
+Quality Center, Starteam, SVN, MS Office
+
+(cid:10)
+(cid:13)
+(cid:10)
+(cid:10)
+(cid:13)
+(cid:10)
+(cid:10)
+(cid:13)
+(cid:10)
+(cid:13)
+(cid:10)
+(cid:13)
+(cid:13)
+(cid:10)
+(cid:13)
+(cid:10)
+(cid:10)
+(cid:13)
+(cid:10)
+(cid:13)
+(cid:10)
+(cid:10)
+(cid:13)
+(cid:10)
+(cid:13)
+(cid:10)
+(cid:10)
+(cid:13)
+(cid:10)
+Document de consultation Appel d’offres
+
+Norme qualité CMMI3
+
+Travail avec des équipes offshore (serait un plus)
+
+Websphere TX 8.2
+
+e 
+
+(cid:13)
+(cid:13)
+(cid:10)
+(cid:13)
+"
+6,data/input/AO\Ao--26-07-2016-352422-001.pdf,.pdf,"Document de consultation Appel d’offres
+
+ 
+
+Informations relatives à l’Appel d’Offres
+
+Société émettrice
+
+Date d’émission
+
+Date de clôture
+
+Date de démarrage prévue
+
+Informations sur l'émetteur
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+31/10/2016
+
+01/09/2016
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Contexte détaillé de la prestation
+
+Domaine
+
+IT Clearing & Custody Services (CCS)
+
+Environnement technique general
+
+DotNET (C#), Frontal ExtJS, MS SQL Server
+
+Nom du projet
+
+ 
+
+Description détaillée de la prestation
+
+ réalise des applications intranet développées en 
+L’équip  
+technologie Microsoft .NET/extjs pour les différents services de 
+BP2S.
+
+Lors de cette mission, vous serez en charge de la réalisation de 
+projets en effectuant les actions suivantes:
+
+- Rencontrer les opérationnels de 
+et comprendre leurs besoins
+
+ 
+
+ 
+
+ 
+
+ 
+
+- Aider à la rédaction des documents de requirements, de 
+spécifications fonctionnelles et de spécifications techniques à partir 
+des demandes Métier
+
+- Mettre en place le modèle de base de données
+
+- Assurer le suivi d'avancement des développements effectués à 
+Lisbonne ou Chennai
+
+- Rédiger les plans de tests d'intégration et exécuter ces tests en 
+utilisant l'outil Quality Center
+
+- Participer au suivi de la recette utilisateurs
+
+Printed on 23/08/2016 09:59:16 
+
+Page 1 on 3
+
+Document de consultation Appel d’offres
+
+ 
+
+- Assurer le déploiement de la solution
+
+- Participer/Suivre les développements des solutions .Net/SQL/Extjs
+
+La réalisation de ces projets demandera un respect des normes de 
+qualité en vigueur (CMMI3 + normes interne). Les outils Starteam et 
+Subversion seront utilisés pour la gestion de configuration.
+
+Ce poste demande de la rigueur, de l'autonomie et un esprit 
+d’équipe.
+
+La capacité d'analyse est indispensable à ce poste. 
+
+Une forte expertise technique en .Net n'est pas requise mais par 
+contre une bonne connaissance SQL et du modele relationnel est 
+indispensable.
+
+Durée prévisionnelle
+
+3 ans
+
+Prestation type
+
+Prestation type
+
+Analyse Niveau 2 (A2)
+
+En fonction de la teneur de la prestation détaillée plus haut, il est attendu que le Prestataire réponde à l’appel 
+d’offres en constituant une équipe de collaborateurs du niveau suivant :
+
+Niveau de formation (Bac +)
+
+Expérience professionnelle
+
+Expérience dans la fonction
+
+Bac+4/5
+
+< 5ans
+
+< 3ans
+
+Compétences et qualités requises (indispensables en gras)
+
+Autonomie, Organisation, Rigueur
+
+Capacité d'analyse et de synthèse
+
+Aisance rédactionnelle
+
+Capacité à travailler en équipe
+
+anglais (lu, parlé, écrit)
+
+Connaissance de l'environnement .NET (C#) et de Visual Studio 2010
+
+Connaissance de l'environnement ExtJs est un  plus
+
+Bonne connaissance du langage SQL et du modele relationnel
+
+Printed on 23/08/2016 09:59:16 
+
+Page 2 on 3
+
+Document de consultation Appel d’offres
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Printed on 23/08/2016 09:59:16 
+
+Page 3 on 3
+
+"
+7,data/input/AO\AO-Br--25-03-2010-182482-001.pdf,.pdf,"Document de consultation Appel d’offre
+
+Informations relatives à l’Appel d’Offre
+
+Société émettrice
+
+Date d’émission
+
+Date de clôture
+
+Date de démarrage prévue
+
+Informations sur l'émetteur
+
+30/04/2010
+
+05/04/2010
+
+Nom et prénom
+
+Direction et Service
+
+Centre de Base
+
+Numéro de téléphone
+
+Adresse e-mail
+
+Contexte détaillé de la Mission
+
+Domaine
+
+Custody / Opérations sur titres
+
+Environnement technique général
+
+Mainframe
+
+Nom du projet
+
+NCS (Network Custody System) / Support de production
+
+Description détaillée de la mission
+
+NCS est un applicatif de gestion des opérations sur 
+titres acheté à une compagnie 
+
+Les principales fonctions du support IT de production 
+sont les suivantes:(cid:13)
+
+1. Assurer le suivi des process techniques TP & batchs 
+permettant de garantir la continuité des process 
+business en cours de journée.(cid:13)
+2. Garantir le suivi de production du système NCS 
+auprès des équipes opérationnelles:(cid:13)
+- analyse des demandes de support créées par les 
+utilisateurs(cid:13)
+- proposition de solutions de contournement en cas de 
+dysfonctionnement de l'application(cid:13)
+3. Assurer l'interface entre les équipes opérationnelles 
+et le fournisseur indien TCS de l'application présent sur 
+site.(cid:13)
+4. Organiser er participer aux réunions de suivi des 
+fiches supports et incidents en liaison avec les équipes 
+opérationnelles, le fournisseur TCS et les applicatifs IT 
+dialoguant avec NCS.(cid:13)
+5. Garantir la préparation et l'éxecution des tests suite à 
+la correction par le fournisseur d'un dysfonctionnement 
+de l'application trouvé en production.(cid:13)
+6. Assurer la gestion des référentiels rattachés à NCS 
+(référentiel client, valeur,..)(cid:13)
+
+L'équipe IT NCS est constituée de 17 personnes, dont 7 
+personnes sont dédiées au support de l'application.
+
+Durée prévisionnelle
+
+> 18 mois
+
+(cid:13)
+(cid:10)
+(cid:13)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:13)
+(cid:10)
+Document de consultation Appel d’offre
+
+Profil du Prestataire recherché
+
+Profil
+
+Analyste Niveau 1 (A1)
+
+Niveau de formation (Bac +)
+
+Bac +5
+
+Expérience professionnelle
+
+Expérience dans la fonction
+
+3 ans
+
+n/a
+
+Compétences et qualités requises (indispensables en gras)
+
+anglais
+
+Capacité d'analyse
+
+Connaissance de l’activité du métier des titres
+
+Connaissance mainframe (TSO, JCL,..)
+
+Esprit d'équipe
+
+Rigueur / Réactivité / Autonomie / Investissement personnel / 
+Flexibilité
+
+(cid:13)
+(cid:13)
+(cid:13)
+"
+8,data/input/AO\BNPPAM_AO_2018-45992 - PMO for scrum master.pdf,.pdf,"REQUEST FOR PROPOSAL/ APPEL D’OFFRE 2018-45992
+
+Mission/ Mission
+
+Category/ Catégorie:
+SSII
+Segment/ Segment:
+Segment B – Développement applicatif et intégration de progiciel
+Mission Title/ Titre de mission:
+PMO support for Scrum Master
+
+Profile/ Profil:
+Scrum Master (Min 6 ans)
+
+Mission (description)/ Description de mission:
+Dans le cadre du projet de refonte de notre CRM (Salesforce); Nous recherchons un PMO afin d'assister le Scrum master dans ses activités
+quotidiennes de suivi de projet.
+Le PMO sera en charge du suivi opérationnel des actions de la scrum team, de la mise à jour des KPI de suivi du projet ainsi que la préparation des
+différents supports des meetings de suivi.
+La connaissance de Salesforce ou autre CRM serait appréciée.
+
+Service end date/ Date fin prestations:
+30-11-2018
+
+Deliverables/ Livrables:
+Préparation meeting hebdo
+Reporting
+KPI de suivi
+
+Technical Prerequisite/ Prérequis techniques:
+Gestion de projet
+Méthode Agile (Scrum)
+Anglais
+
+Execution place/ Lieu de prestation:
+France
+Target Service start date/ Date prévue début prestations:
+22-05-2018
+Number of days/ Nombre de jours:
+120
+
+Profile/ Profil
+
+No of years of experiences/ Nombre d’années d’expérience:
+Technical skills/ Compétences techniques:
+
+3 to 5
+
+Mandatory/ Obligatoires:
+Gestion de projet
+Méthode Agile (Scrum)
+Anglais
+
+Optional/ Optionnelles:
+
+Other skills(like Language...)/ Autres compétences (Langues, …):
+
+Comments/ Commentaires:
+
+"
+9,data/input/AO\BNPPAM_AO_2018-46103 - Senior API & Services architect.pdf,.pdf,"REQUEST FOR PROPOSAL/ APPEL D’OFFRE 2018-46103
+
+Mission/ Mission
+
+Category/ Catégorie:
+SSII
+Segment/ Segment:
+Segment B – Développement applicatif et intégration de progiciel
+Mission Title/ Titre de mission:
+Senior API & Services architect
+
+Profile/ Profil:
+Chef de Projet / Architecte Technique 6-10 ans inclus
+
+Mission (description)/ Description de mission:
+The BNPP Asset Management information is designing and implementing API and service oriented solutions and strategy and the API adoption
+process within the organization. API architect is responsible to lead and guide a team on developing solutions that fully integrate and collaborate with
+existing IT systems to solve complex business solutions. A holistic view of enterprise solutions, taking into consideration operational costs, security,
+performance engineering, application development, and systems management is necessary for this position as a lead architect.
+This is a client-facing role with a sound understanding of API, services and technology architecture but also very good communication skills, with the
+ability to adapt them to different audiences.
+This role will be within the IS Strategy, Functional Architecture & Solutions team which oversights all aspects of the functional architecture and its
+compliance to strands and the rules of the BNPP group as a business partner. The IS Strategy, Functional Architecture & Solutions team
+understands and promotes new technologies; contribute to the choice of the solutions and works closely with BNPP AM strategist team and
+Innovation team to aggregate the market watch initiatives.
+
+Deliverables/ Livrables:
+The role would be more functional than technical and tends to re-design our architecture towards more API and more Services orientation and
+change the BNPP IS approach.
+The main objectives are to define:
+• Business service strategy towards API and Services,
+• IT strategy (how to deploy API on IS architecture).
+
+All this of course aligned with Wholesale and the Group.
+
+The candidate will be part of IS Strategy, Functional Architecture & Solution team in Paris or in Brussels, providing API expertise within the team.
+Candidate will report to Head of the team.
+
+Technical Prerequisite/ Prérequis techniques:
+• Deep knowledge and hands-on experience in API management and SOA platforms and API related activities: requirement analysis, solution
+architecture and design, resource-based API modeling, micro-services architecture
+• Knowledge about API design standards, patterns and best-practices
+• Deep knowledge and hands-on experience in API security standards and implementation (Oauth, …)
+• Knowledge regarding APIs applied to business: Industry use cases
+• Knowledge and experience designing and implementing SOA and API Governance
+• 6+ years of experience as both a hands-on architect and a software engineer in the following domains:
+o Java EE including (Web Services, REST, JPA).
+o Database (SQL server/Oracle/MySQL/MongoDB/MapR)
+o SOA and Design patterns.
+Qualifications
+• Full-Stack Engineering vision: ability to leverage breadth of experience and knowledge to architect and design solutions,
+• Leadership experience in architecting, developing and deploying enterprise class solutions in customer facing environments,
+• Excellent communications skills - ability to engage in deep technical discussions with customers and peers and become a trusted technical advisor,
+• Problem-solving orientation. Thinker and doer attitude, 
+• Passionate, persuasive, Strong written, verbal and chalk board skills,
+• Experience in working in agile methodology managed projects is valued,
+• Ability to work with team members from around the globe / experience working with off-shore models.
+Degrees/Certifications Earned 
+• Bachelor's degree in Computer Science, Computer Engineering or Information Technology,
+• Relevant Industry certifications
+Other
+• 10 or more years of IT experience,
+• Minimum of 5 year experience in API environment,
+• Exposure and working level knowledge of working with and interfacing to global delivery teams,
+• Good business judgment, a comfortable, open communication style, and a willingness and ability to work with teams,
+• Strong service attitude and a commitment to quality.
+• Fluent in English is a pre, French is valued.
+• Preferred location Paris.
+
+Execution place/ Lieu de prestation:
+France
+Target Service start date/ Date prévue début prestations:
+02-07-2018
+Number of days/ Nombre de jours:
+110
+
+Service end date/ Date fin prestations:
+31-12-2018
+
+Profile/ Profil
+
+No of years of experiences/ Nombre d’années d’expérience:
+Technical skills/ Compétences techniques:
+
+5 to 10
+
+Mandatory/ Obligatoires:
+• Deep knowledge and hands-on experience in API management and SOA platforms and
+API related activities: requirement analysis, solution architecture and design,
+resource-based API modeling, micro-services architecture
+• Knowledge about API design standards, patterns and best-practices
+• Deep knowledge and hands-on experience in API security standards and implementation
+(Oauth, …)
+• Knowledge regarding APIs applied to business: Industry use cases
+• Knowledge and experience designing and implementing SOA and API Governance
+
+Optional/ Optionnelles:
+
+Other skills(like Language...)/ Autres compétences (Langues, …):
+• Full-Stack Engineering vision: ability to leverage breadth of experience and knowledge to
+architect and design solutions,
+• Leadership experience in architecting, developing and deploying enterprise class solutions in
+customer facing environments,
+• Excellent communications skills - ability to engage in deep technical discussions with customers
+and peers and become a trusted technical advisor,
+• Problem-solving orientation. Thinker and doer attitude, 
+• Passionate, persuasive, Strong written, verbal and chalk board skills,
+• Experience in working in agile methodology managed projects is valued,
+• Ability to work with team members from around the globe / experience working with off-shore
+models.
+
+Comments/ Commentaires:
+
+"
+10,data/input/AO\BNPPAM_AO_2018-46389 - expert tableau.pdf,.pdf,"REQUEST FOR PROPOSAL/ APPEL D’OFFRE 2018-46389
+
+Mission/ Mission
+
+Category/ Catégorie:
+SSII
+Segment/ Segment:
+Segment B – Développement applicatif et intégration de progiciel
+Mission Title/ Titre de mission:
+Expert Tableau Software
+
+Mission (description)/ Description de mission:
+Présentation de la mission : 
+
+Profile/ Profil:
+Analyste Programmeurl / Recetteur 6-10 ans inclus
+
+Dans le cadre de ses activités de Dealing Services (Table de Négociation multi asset), 
+nous souhaitons renforcer le pôle Reporting pour une durée de 1 renouvelable. 
+
+Au sein de l’équipe dédiée au datawarehouse de l’entité : FinReport.
+La mission porte à la fois sur les sujets de maintenance et de projet. 
+
+Elle consiste à optimiser notre dispositif de reporting lié à la meilleure sélection/ meilleure exécution des ordres traités sur la table de Négociation.
+Pour répondre à des obligations réglementaires, ces nouvelles analyses permettront de justifier les contrôles et mesurer la qualité des executions de
+marché.
+
+L’application FinReport en production depuis plus de 7 ans a pour objectif d’assurer la cohérence et la centralisation de l’ensemble du reporting pour
+l’entité
+BNP Paribas Dealing Services.
+La plateforme est actuellement basée sur DataStage PX v 8.7 et SAP BO BI4.
+L'utilisation de nouveaux outils tels que Tableau Software est en cours. 
+Pour cela nous recherchons un profil expérimenté sur cet outil afin qu'il nous aide à implémenter la solution.
+
+En relation directe avec les équipes de Maîtrise d’Ouvrage et / les négociateurs de la table , le niveau d’intervention sur chacun des sujets va du
+conseil jusqu’à l’
+aide à la réalisation et à la correction des bugs.
+
+La maîtrise de l’anglais est nécessaire, le collaborateur pouvant être amené à coordonner ou accompagner des projets BI dans un contexte
+international.
+La prestation se déroulera au 14, rue Bergère 75009 Paris.
+
+Deliverables/ Livrables:
+Les tâches confiées au collaborateur seront :
+• Participer aux réunions/workshops avec les différents utilisateurs afin de comprendre leurs attentes
+• Etre force de proposition en s'appuytant sur ces connaissances et expériences passées pour répondre à leur besoin.
+• Identifier la solution technique la plus adaptée au regard des besoins exprimés ( SAP BO vs Tableau Software)
+• Développer les différents composants Dashboard Tableau.
+• Réaliser les tests et recette techniques pour vérifier l’alimentation et la cohérence des données.
+• Délivrer un support auprès des utilisateurs post Livraison
+
+Il sera demander au collaborateur une forte autonomie afin de mener les différentes étapes du projet de l'expression de besoins aux livrables.
+
+Technical Prerequisite/ Prérequis techniques:
+
+Compétences techniques :
+* Maîtrise du langage de requête SQL.
+* Maîtrise de l’outil de reporting Tableau Sofware
+* Bonne connaissance de l’outil de reporting Business Object (BO)
+
+Execution place/ Lieu de prestation:
+France
+Target Service start date/ Date prévue début prestations:
+01-06-2018
+Number of days/ Nombre de jours:
+220
+
+Service end date/ Date fin prestations:
+31-05-2019
+
+Profile/ Profil
+
+No of years of experiences/ Nombre d’années d’expérience:
+Technical skills/ Compétences techniques:
+
+5 to 10
+
+Mandatory/ Obligatoires:
+* Maîtrise du langage de requête SQL.
+* Maîtrise de l’outil de reporting Tableau Sofware
+
+Optional/ Optionnelles:
+* Bonne connaissance de l’outil de reporting Business Object (BO)
+
+Other skills(like Language...)/ Autres compétences (Langues, …):
+Bonne pratique de l'anglais
+
+Comments/ Commentaires:
+
+"
+11,data/input/AO\BNPPAM_AO_2018-46562 - Senior API & Services architect Mapr.pdf,.pdf,"REQUEST FOR PROPOSAL/ APPEL D’OFFRE 2018-46562
+
+Mission/ Mission
+
+Category/ Catégorie:
+SSII
+Segment/ Segment:
+Segment B – Développement applicatif et intégration de progiciel
+Mission Title/ Titre de mission:
+Senior API & Services architect
+
+Profile/ Profil:
+Chef de Projet / Architecte Technique 6-10 ans inclus
+
+Mission (description)/ Description de mission:
+The BNPP Asset Management information is designing and implementing API and service oriented solutions and strategy and the API adoption
+process within the organization. API architect is responsible to lead and guide a team on developing solutions that fully integrate and collaborate with
+existing IT systems to solve complex business solutions. A holistic view of enterprise solutions, taking into consideration operational costs, security,
+performance engineering, application development, and systems management is necessary for this position as a lead architect.
+This is a client-facing role with a sound understanding of API, services and technology architecture but also very good communication skills, with the
+ability to adapt them to different audiences.
+This role will be within the IS Strategy, Functional Architecture & Solutions team which oversights all aspects of the functional architecture and its
+compliance to strands and the rules of the BNPP group as a business partner. The IS Strategy, Functional Architecture & Solutions team
+understands and promotes new technologies; contribute to the choice of the solutions and works closely with BNPP AM strategist team and
+Innovation team to aggregate the market watch initiatives.
+
+Deliverables/ Livrables:
+Position responsibilities and expectations
+The role would be more functional than technical and tends to re-design our architecture towards more API and more Services orientation and
+change the BNPP IS approach.
+The main objectives are to define:
+• Business service strategy towards API and Services,
+• IT strategy (how to deploy API on IS architecture).
+
+All this of course aligned with Wholesale and the Group.
+
+The candidate will be part of IS Strategy, Functional Architecture & Solution team in Paris or in Brussels, providing API expertise within the team.
+Candidate will report to Head of the team.
+
+Technical Prerequisite/ Prérequis techniques:
+• Deep knowledge and hands-on experience in API management and SOA platforms and API related activities: requirement analysis, solution
+architecture and design, resource-based API modeling, micro-services architecture
+• Knowledge about API design standards, patterns and best-practices
+• Deep knowledge and hands-on experience in API security standards and implementation (Oauth, …)
+• Knowledge regarding APIs applied to business: Industry use cases
+• Knowledge and experience designing and implementing SOA and API Governance
+• 6+ years of experience as both a hands-on architect and a software engineer in the following domains:
+o Java EE including (Web Services, REST, JPA).
+o Database (SQL server/Oracle/MySQL/MongoDB/MapR)
+o SOA and Design patterns.
+
+Execution place/ Lieu de prestation:
+France
+Target Service start date/ Date prévue début prestations:
+02-07-2018
+Number of days/ Nombre de jours:
+110
+
+Service end date/ Date fin prestations:
+31-12-2018
+
+Profile/ Profil
+
+No of years of experiences/ Nombre d’années d’expérience:
+Technical skills/ Compétences techniques:
+
+5 to 10
+
+Mandatory/ Obligatoires:
+Deep knowledge and hands-on experience in API management and SOA platforms and API
+related activities: requirement analysis, solution architecture and design, resource-based
+API modeling, micro-services architecture
+• Knowledge about API design standards, patterns and best-practices
+• Deep knowledge and hands-on experience in API security standards and implementation
+(Oauth, …)
+• Knowledge regarding APIs applied to business: Industry use cases
+• Knowledge and experience designing and implementing SOA and API Governance
+
+• 6+ years of experience as both a hands-on architect and a software engineer in the
+following domains:
+o Java EE including (Web Services, REST, JPA).
+o Database (SQL server/Oracle/MySQL/MongoDB/MapR)
+o SOA and Design patterns.
+
+Optional/ Optionnelles:
+
+Other skills(like Language...)/ Autres compétences (Langues, …):
+
+Comments/ Commentaires:
+
+"
+12,data/input/AO\BNPPAM_AO_2018-47160 - Commando VBA.pdf,.pdf,"REQUEST FOR PROPOSAL/ APPEL D’OFFRE 2018-47160
+
+Mission/ Mission
+
+Category/ Catégorie:
+SSII
+Segment/ Segment:
+Segment B – Développement applicatif et intégration de progiciel
+Mission Title/ Titre de mission:
+Analyste/Développeur ""commando""
+
+Profile/ Profil:
+Analyste / Développeur 3-5 ans inclus
+
+Mission (description)/ Description de mission:
+Contexte: extension du périmètre de la business unit IT Bespoke Solutions chez BNPPAM
+
+Mission: définir et mettre en place des solutions rapides
+
+Scope: 
+- Toutes les lignes métiers BNPPAM -> FO (50%), Risk, COmpliance, Opérations, Sales...
+- Multi-zones géographiques -> Europe, Asie, US, LATAM
+
+Deliverables/ Livrables:
+- Recueil et challenge du besoin auprès de l'utilisateur final
+- Définition de solution
+- Développement
+- Test
+- Support
+
+Technical Prerequisite/ Prérequis techniques:
+- Rigoureux, pragmatique
+- Sens des priorité, synthétique
+- Très bon relationnel, sens du service
+- Autonome
+- Ouvert, curieux
+
+Execution place/ Lieu de prestation:
+France
+Target Service start date/ Date prévue début prestations:
+01-06-2018
+Number of days/ Nombre de jours:
+220
+
+Service end date/ Date fin prestations:
+31-05-2019
+
+Profile/ Profil
+
+No of years of experiences/ Nombre d’années d’expérience:
+Technical skills/ Compétences techniques:
+
+3 to 5
+
+Mandatory/ Obligatoires:
+- Très bon niveau d'anglais (écrit et parlé)
+- VBA
+- .Net C#
+- WCF, Web Services
+- REST, HTTP, XML, JSON
+- ADO.Net, Entity Framework
+- Object-orientated, unit testing, design patterns, mocking framework
+- SQL Server
+
+Optional/ Optionnelles:
+- Connaissance de l'Asset Management et/ou Captial Merket
+
+Other skills(like Language...)/ Autres compétences (Langues, …):
+
+Comments/ Commentaires:
+
+"
+13,data/input/AO\BNPPAM_AO_2018-47164 - BA FI.pdf,.pdf,"REQUEST FOR PROPOSAL/ APPEL D’OFFRE 2018-47164
+
+Mission/ Mission
+
+Category/ Catégorie:
+SSII
+Segment/ Segment:
+Segment A – AMOA / Fonctionnel
+Mission Title/ Titre de mission:
+Business Analyst spécialiste des Fixed Income
+
+Profile/ Profil:
+Consultant Fonctionnel Fonctionnel 6-10 ans inclus
+
+Mission (description)/ Description de mission:
+Au seins de Dealing Service (BNPP AM), nous recherchons un Business Analyst spécialisé dans les Fixed Income.
+
+Le poste est pour un nouveau projet où nous voulons construire une nouvelle application sur les Fixed income à destination des négociateurs
+(Dealer) et des gérants de BNPP AM.
+
+Le projet est en 2 parties.
+
+Partie 1 :
+• Collecte des Axes et des prix depuis différentes providers (Protocole FIX ou autres).
+• Enrichissement des Axes et des prix avec des données référentiels instruments et autres
+• Gui avec des technologies web pour la datavisualisation et l’interaction. 
+• Mise en relation des différentes sources de donnée ( Axes, prix, position, ordres, référentiel, ect…)
+
+Partie 2 :
+• Réalisation d’un pricer pour les fixed incomes
+• TCA – évaluation de la performance d’exécution
+• Recherche d’opportunité pour les gérants et négociateurs
+• Evaluation de la performance des contreparties.
+
+Il s’agit d’un nouveau projet avec un développement en interne.
+
+Il y aura une feature team pour la réalisation avec 1 BA, 3 développeurs, 1 chefs de projet, 1 product Owners.
+L’équipe va fonctionner selon les principes de SCRUM.
+
+L’objectif est de livré en production la partie 1 avant la fin de l’année.
+
+Deliverables/ Livrables:
+• Connaissance avancée sur les Fixed income.
+• Avoir une expérience significative sur les applications front offices.
+• Avoir une expérience les méthodologie Agile.
+• Avoir la connaissance sur les techniques BDD et user stories.
+• Avoir un excellent relationnelle.
+
+Technical Prerequisite/ Prérequis techniques:
+• Connaissance avancée sur les Fixed income.
+• Avoir une expérience significative sur les applications front offices.
+• Avoir une expérience les méthodologie Agile.
+• Avoir la connaissance sur les techniques BDD et user stories.
+• Avoir un excellent relationnelle.
+
+Execution place/ Lieu de prestation:
+France
+Target Service start date/ Date prévue début prestations:
+04-06-2018
+Number of days/ Nombre de jours:
+218
+
+Service end date/ Date fin prestations:
+31-05-2019
+
+Profile/ Profil
+
+No of years of experiences/ Nombre d’années d’expérience:
+Technical skills/ Compétences techniques:
+
+5 to 10
+
+Mandatory/ Obligatoires:
+• Excellente connaissance en Fixed Income.
+• Connaissance des outils de trading et des différents workflow pour les fixed income.
+
+• Excellente connaissance sur le test d’application.
+• Avoir un bon rédactionnel. 
+
+Optional/ Optionnelles:
+• Avoir des connaissances sur les mathématiques financières.
+• Avoir des connaissances sur les technologies de maching learning et équivalents.
+• Avoir des connaissances en datavisualisation.
+
+Other skills(like Language...)/ Autres compétences (Langues, …):
+• SQL 
+• Python
+• Avoir des compétences sur Tableau ou équivalents.
+
+Comments/ Commentaires:
+
+"
+14,data/input/AO\BNPPAM_AO_2018-47165 - dev fullstack confirmé.pdf,.pdf,"REQUEST FOR PROPOSAL/ APPEL D’OFFRE 2018-47165
+
+Mission/ Mission
+
+Category/ Catégorie:
+SSII
+Segment/ Segment:
+Segment B – Développement applicatif et intégration de progiciel
+Mission Title/ Titre de mission:
+Développeur FullStack confirmé
+
+Profile/ Profil:
+Analyste / Développeur 6-10 ans inclus
+
+Mission (description)/ Description de mission:
+Rejoindre l’équipe de développement d’application web de Dealing Service.
+Nous développons des webapps pour les négociatateurs de Dealing Service et les différents services.
+
+Nous avons 2 stack techniques.
+
+Une stack legacy :
+• Websphere 7
+• Java 6
+• Flex
+
+Une stack moderne :
+• Spring Boot / Java 8 / Tomcat
+• Angular 
+• Material Design
+
+La mission : 
+• Maintenance des applications legacy (un référentiel instrument et un gui de trading simple) environ 20 % du temps.
+• Faire évoluer et rajouter des fonctionnalité sur les applications avec la stack moderne (une GUI web pour MIFID II et une webapp pour l’évaluation
+des brokers) environs 40 % du temps
+• Faire évoluer notre plateforme vers du Infrastructure as code et faire évoluer notre intégration continue , environ 20 % du temps.
+• Participer au nouveau projets, environ 20% du temps.
+• Faire le support de l’ensemble des applications de l’équipe avec l’ensemble des membres de l’équipe.
+
+L’équipe fonctionne en SCRUM.
+L’équipe est composé de 5 développeurs, 1 BA et 1 chef de projets + 1 développeurs en inde.
+
+Le poste est pour une personne qui est maitrise les aspect Backend et Frontend du développement.
+
+Deliverables/ Livrables:
+• Réalisation des évolutions techniques et fonctionnelles sur l’ensemble du parc applicatif.
+• Fournir des développements avec leur test
+• Maintenance de l’intégration continue.
+• Amélioration des déploiements.
+• Participation au différents rites agiles
+
+Technical Prerequisite/ Prérequis techniques:
+• Java 8
+• Angular
+• HTML & CSS
+• Jenkins & GIT 
+• Technologie de développement continue.
+
+Execution place/ Lieu de prestation:
+France
+Target Service start date/ Date prévue début prestations:
+04-06-2018
+Number of days/ Nombre de jours:
+218
+
+Profile/ Profil
+
+No of years of experiences/ Nombre d’années d’expérience:
+Technical skills/ Compétences techniques:
+
+3 to 5
+
+Mandatory/ Obligatoires:
+• Java 8
+
+Service end date/ Date fin prestations:
+31-05-2019
+
+• Angular
+• HTML & CSS
+• Jenkins & GIT 
+• Technologie de développement continue.
+
+Optional/ Optionnelles:
+
+Other skills(like Language...)/ Autres compétences (Langues, …):
+• Craftmanship
+• TDD
+
+Comments/ Commentaires:
+
+"
+15,data/input/AO\BNPPAM_AO_2018-47717 - MOA Finance sénior (data).pdf,.pdf,"REQUEST FOR PROPOSAL/ APPEL D’OFFRE 2018-47717
+
+Mission/ Mission
+
+Category/ Catégorie:
+SSII
+Segment/ Segment:
+Segment A – AMOA / Fonctionnel
+Mission Title/ Titre de mission:
+Business Analyst Confirmé/Senior
+
+Profile/ Profil:
+Consultant Fonctionnel Fonctionnel 6-10 ans inclus
+
+Mission (description)/ Description de mission:
+Au sein de l’équipe IT FO Research, nous recherchons un business analyst senior sur nos applications de recherches fondamentales, front et de «
+gestion augmentée ».
+
+Dans ce cadre le consultant devra: 
+
+• Organiser les ateliers avec nos points de contact métiers et techniques
+• Comprendre les besoins et aider à leur priorisation
+• Rédaction de spécifications fonctionnelles détaillées
+• Lister l’exhaustivité des impacts et identifier des solutions avec l’équipe de développement
+• Mettre à jour et suivre le backlog avec l’équipe technique
+• Collaborer avec l’équipe de développement pour mettre en œuvre les solutions
+• Implémenter une solution de reporting, a priori via une application de Business Intelligence (ex :. Power BI, Tableau…) et former les utilisateurs
+• Construire une stratégie de tests et réaliser/coordonner les tests
+• Gérer les mises en production
+• Répondre aux demandes de support
+
+Deliverables/ Livrables:
+De formation supérieure Bac+5, de type ingénieur, école de commerce ou équivalent universitaire, vous disposez nécessairement d’une expérience
+confirmée (>5 ans) dans la construction et la maintenance d'application. Communiquant, vous disposez d’un bon relationnel et d’une approche
+rigoureuse. Vous avez un esprit d'analyse et de conceptualisation, ainsi que de bonne dispositions à travailler en équipe.
+
+Technical Prerequisite/ Prérequis techniques:
+Les compétences souhaitées pour cette mission sont :
+• Compétences relationnelles fortes: écoute et communication avec des utilisateurs front office et les autres équipes projets. Coordination de
+plusieurs équipes pour développer et livrer. Support ponctuel de la production. 
+• Connaissances fonctionnelles(Recommandé): Asset Management ,Instruments de marchés, outils de fournitures de données de marché(Reuters,
+Bloomberg...) , Connaissance des données instruments , (Facultatif) Exploitation de données Big Data. 
+• Compétences techniques : (Recommandé) SQL , Business Intelligence, Excel (Facultatif).Net, Hadoop, Hive, Scaled Risk…
+
+Méthodologie de travail : Agile
+
+Anglais indispensable(testé lors d'un entretien): Rédaction et discussion en anglais.
+
+Execution place/ Lieu de prestation:
+France
+Target Service start date/ Date prévue début prestations:
+02-07-2018
+Number of days/ Nombre de jours:
+120
+
+Service end date/ Date fin prestations:
+31-12-2018
+
+Profile/ Profil
+
+No of years of experiences/ Nombre d’années d’expérience:
+Technical skills/ Compétences techniques:
+
+5 to 10
+
+Mandatory/ Obligatoires:
+écoute et communication avec des utilisateurs front office et les autres équipes projets.
+Coordination de plusieurs équipes pour développer et livrer. Support ponctuel de la
+production
+
+SQL , Business Intelligence, Excel
+
+Optional/ Optionnelles:
+.Net, Hadoop, Hive, Scaled Risk
+
+Other skills(like Language...)/ Autres compétences (Langues, …):
+Asset Management ,Instruments de marchés, outils de fournitures de données de marché(Reuters,
+Bloomberg...) , Connaissance des données instruments
+
+Comments/ Commentaires:
+
+"
+16,data/input/AO\BNPPAM_AO_2018-47723 - dév front avec appétences Back.pdf,.pdf,"REQUEST FOR PROPOSAL/ APPEL D’OFFRE 2018-47723
+
+Mission/ Mission
+
+Category/ Catégorie:
+SSII
+Segment/ Segment:
+Segment B – Développement applicatif et intégration de progiciel
+Mission Title/ Titre de mission:
+Développeur Front avec appétences Back
+
+Profile/ Profil:
+Analyste / Développeur 6-10 ans inclus
+
+Mission (description)/ Description de mission:
+Attention : Une solide expérience en conception d’une interface utilisateur web est requise (HTML, CSS, Javascript, bootstrap, webapi…)
+
+Au sein de l’équipe IT FO Research, nous construisons notre plateforme de recherche d’investissement. 
+Nous recherchons un développeur pour nous aider à construire le front-end.
+
+Au sein de l’équipe qui comprend des UX/UI designer, ce développeur devra :
+- Implémenter la partie front-end de la plateforme
+o Importer le travail de notre designer (images, CSS, …)
+o Développer l’interface graphique conformément aux recommandations de notre ergonome
+o Intégrer les web services des applications amonts
+o Intégrer et proposer des frameworks d’accélération de développement (ex : React)
+- Implémenter la partie back-end de la plateforme
+o Construire des api REST exposer à la partie Front-End
+- Respecter les règles d’architectures applicatives et techniques
+- Proposer des nomenclatures de développement afin d’améliorer la maintenance
+- Tester unitairement les fonctionnalités développées
+- Aider à l’intégration de l’application sur les différents environnements IIS (DEV/INT/UAT/PROD)
+
+Deliverables/ Livrables:
+De formation supérieure Bac+5, de type ingénieur ou équivalent universitaire, vous disposez nécessairement d’une expérience confirmée (>8 ans)
+dans le développement et la maintenance d'application web. 
+Communiquant, vous disposez d’un bon relationnel et d’une approche rigoureuse. Vous avez un esprit d'analyse et de conceptualisation, ainsi que
+de bonne dispositions à travailler en équipe
+
+Technical Prerequisite/ Prérequis techniques:
+Les compétences souhaitées pour cette mission sont :
+• Compétences techniques : (INDISPENSABLE) HTML 5, Javascript, CSS 3, BootStrap, WEB API REST, .NET, C# (Recommandé) React, design
+pattern, Entity Framework (ou un autre ORM), IOC, ASP.Net MVC, .Net core 2.0 (Facultatif) MangoDB, ELK Stack, TFS…
+• Compétences relationnelles fortes: écoute et communication avec les autres équipes projets. Coordination de plusieurs équipes pour développer et
+livrer.
+• Connaissances fonctionnelles(Facultatif): Asset Management
+
+Méthodologie de travail : Agile
+
+Anglais (testé lors d'un entretien): Rédaction et discussion en anglais.
+
+Execution place/ Lieu de prestation:
+France
+Target Service start date/ Date prévue début prestations:
+02-07-2018
+Number of days/ Nombre de jours:
+120
+
+Service end date/ Date fin prestations:
+31-12-2018
+
+Profile/ Profil
+
+No of years of experiences/ Nombre d’années d’expérience:
+Technical skills/ Compétences techniques:
+
+5 to 10
+
+Mandatory/ Obligatoires:
+HTML 5, Javascript, CSS 3, BootStrap, WEB API REST, .NET
+Méthodologie de travail : Agile
+
+Anglais (testé lors d'un entretien): Rédaction et discussion en anglais.
+
+Optional/ Optionnelles:
+React, design pattern, Entity Framework (ou un autre ORM), IOC, ASP.Net MVC, .Net core
+
+2.0 (Facultatif) MangoDB, ELK Stack, TFS
+
+Other skills(like Language...)/ Autres compétences (Langues, …):
+Compétences relationnelles fortes: écoute et communication avec les autres équipes projets.
+Coordination de plusieurs équipes pour développer et livrer.
+Connaissances fonctionnelles(Facultatif): Asset Management
+
+Comments/ Commentaires:
+
+"
+17,data/input/AO\Incident Manager - - JEMS GROUP.pdf,.pdf,"Document de consultation Appel d’offres Printed on 05/07/2016 17:44:55 Page 1 on 3Société émettrice   Date d’émission05/07/2016Date de clôture31/08/2016Date de démarrage prévue22/08/2016Nom et prénomMaxime MAURICEDirection et ServiceBP2S CCS - Project ManagementCentre de Base61710Numéro de téléphone+33 1 40 14 95 91Adresse e-mailmaxime.maurice@bnpparibas.comDomaineCCS - BDOEnvironnement technique generalenvironnement PCNom du projetBroker Dealer Outsourcing - Service DeliveryDescription détaillée de la prestation   Broker Dealer Outsourcing - assure la sous-traitance des activités Middle Office et Back Office des brokers.Le service a été créé fin 2007, il est en pleine croissance et les perspectives de développement à long terme sont importantes, notamment à l’international avec les branches de  Londres & Hong-Kong.A ce titre, BDO s’est doté d’une équipe de Service Delivery pour le suivi de production en relation avec les utilisateurs (équipes opérationnelles basées à Paris, Londres, Lisbonne, New York, Jersey City, Hong Kong & Chennai), les clients, le fournisseur externe, les équipes     Cette équipe s’inscrit dans une architecture globale en lien avec de multiples applications à la fois chez  et le fournisseur.Périmètre métier :o Sous traitance back/middle office des brokers : support Middle Office, Clearing, Settlement sur tous les marchés, Comptabilité, Informations relatives à l’Appel d’OffresInformations sur l'émetteurContexte détaillé de la prestationDocument de consultation Appel d’offres Printed on 05/07/2016 17:44:55 Page 2 on 3Opérations sur titres (OST), Fiscalité, Swiftso Gestion du risque (Margin calls)o Outil de monitoring temps réel du risque des BrokersRôle:o Gestion des Incident demande de Support:> Analyse de premier niveau en lien avec le provider, les utilisateurs, les clients> Suivi des demandes> Aide aux utilisateurso Gestion des Problème: identification et suivi des plan d'actionso Gestion de la transitiono Gestion de la connaissance (mise à jours des documents)o Animation de réunion en Français et Anglaiso Astreintes de nuit (téléphoniques) du Lundi au Vendredi + Samedi pour opération exceptionnelleService ouvert du Lundi au Vendredi de 8h à 19h30 tous les jours de l'année sauf le 01/01 et le 25/12.Durée prévisionnelle12 moisPrestation typeAnalyse Niveau 2 (A2)En fonction de la teneur de la prestation détaillée plus haut, il est attendu que le Prestataire réponde à l’appel d’offres en constituant une équipe de collaborateurs du niveau suivant :Niveau de formation (Bac +)Bac +4/5Expérience professionnelle>=4 ansExpérience dans la fonction2-3 ansPrestation typeCompétences et qualités requises (indispensables en gras)Powered by TCPDF (www.tcpdf.org)
+
+Document de consultation Appel d’offres Printed on 05/07/2016 17:44:55 Page 3 on 3Anglais : écrit et oralBon relationnel, méthodique et rigoureuxEsprit d’équipeSens du client / du ServiceSens des responsabilitésBonne communication écrite et orale, bon relationnelConnaissances fonctionnelles des domaines : OST, Réglement - livraison, ClearingCertifié ITILFlexibilité                       Powered by TCPDF (www.tcpdf.org)Powered by TCPDF (www.tcpdf.org)Powered by TCPDF (www.tcpdf.org)"
